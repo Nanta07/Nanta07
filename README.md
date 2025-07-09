@@ -48,9 +48,8 @@ Here are a few highlighted projects that reflect my learning journey and interes
 
 Feel free to reach out or connect with me on:
 
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🧠 Medium/Blog: *Coming soon!*
+- ✉️ Email: [ananta.adji3007@gmail.com](mailto:ananta.adji3007@gmail.com)
+- 💼 LinkedIn: [Ananta Boemi Adji](https://www.linkedin.com/in/ananta-boemi-adji/)
 
 ---
 
