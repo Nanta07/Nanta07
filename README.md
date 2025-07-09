@@ -33,17 +33,14 @@ Welcome to my GitHub profile! I'm a passionate and curious learner with a strong
 
 Here are a few highlighted projects that reflect my learning journey and interests:
 
-- 🔍 **[E-Commerce Data Analysis](https://github.com/yourusername/ecommerce-data-analysis)**  
+- 🔍 **[E-Commerce Data Analysis](https://github.com/Nanta07/ecommerce-dashboard-streamlit)**  
   Exploratory data analysis on a public dataset to uncover customer insights and business patterns.
 
-- 🧠 **[Game Recommendation System](https://github.com/yourusername/game-recommendation-system)**  
+- 🧠 **[Game Recommendation System](https://github.com/Nanta07/game-recommendation-system)**  
   Machine learning-based recommender system for suggesting video games using content-based & collaborative filtering.
 
-- 🌱 **[Pepper Plant Disease Detection](https://github.com/yourusername/pepper-disease-classification)**  
+- 🌱 **[Pepper Plant Disease Detection](https://github.com/Nanta07/image-classification)**  
   Image classification model using CNNs to detect diseases in pepper plants.
-
-- 🎮 **[Puzzle Steampunk Game - Hackjam](https://github.com/yourusername/puzzle-steampunk-game)**  
-  A 2D puzzle game with unique mechanics and narrative built during a game dev hackathon.
 
 ---
 
