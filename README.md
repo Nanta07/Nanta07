@@ -52,4 +52,3 @@ Feel free to reach out or connect with me on:
 ---
 
 Thanks for stopping by! Let's build something amazing together 👨‍💻✨
-```
