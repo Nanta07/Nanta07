@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm a passionate and curious learner with a strong
 
 - 🎓 I'm currently a Computer Engineering student.
 - 🤖 I love working with **Machine Learning & Artificial Intelligence**, solving real-world problems through data.
-- 📱 I'm actively building **Mobile Applications** with modern frameworks.
 - 🎮 I explore **Game Development** as a creative outlet and love bringing interactive stories to life.
 - 🌱 Currently diving deeper into **deep learning**, **TensorFlow**, and cross-platform app development.
 - 💼 Open to collaborations, internships, and cool project ideas!
+- ~~📱 **Mobile Applications Development** with modern frameworks.~~
 
 ---
 
