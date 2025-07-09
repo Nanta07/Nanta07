@@ -1,5 +1,3 @@
-## Hi there this is my profile👋
-
 # 👋 Hi, I'm Ananta Boemi Adji
 
 Welcome to my GitHub profile! I'm a passionate and curious learner with a strong interest in technology that blends intelligence, creativity, and user interaction.
