@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate and curious learner with a strong
 - 🎮 I explore **Game Development** as a creative outlet and love bringing interactive stories to life.
 - 🌱 Currently diving deeper into **deep learning**, **TensorFlow**, and cross-platform app development.
 - 💼 Open to collaborations, internships, and cool project ideas!
-- ~~📱 **Mobile Applications Development** with modern frameworks.~~
+- 📱 Ongoing **Mobile Applications Development** with modern frameworks project.
 
 ---
 
